@@ -43,7 +43,6 @@ div{
     width: 100px;
     color: white;
     padding: 5px;
-    /*margin: -3px -3px 0px;*/
     text-align: center;
     font-weight: bold;
     background-color: #FFB6C1;
@@ -53,7 +52,6 @@ div{
     width: 100px;
     color: white;
     padding: 5px;
-    /*margin: -3px -3px 0px;*/
     text-align: center;
     font-weight: bold;
     background-color: #FFB6C1;
@@ -73,7 +71,7 @@ div{
 
 
 
-/* desktop view 992 px and above*/
+/* desktop view : 992 px and above*/
 @media (min-width:992px){
     .column-lg-4{
         float: left;
@@ -90,7 +88,7 @@ div{
     }
 
 }
-/*mobile devices*/
+/******* mobile devices   ******/
 @media(max-width:767px){
     .column-sm-12{
         float: left;
